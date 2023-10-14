@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexgmcnabb@gmail.com
+	name = Alex McNabb
